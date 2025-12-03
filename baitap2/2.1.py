@@ -1,0 +1,15 @@
+print("nguyen van phuc")
+print("245752021610027")
+print("###########################")
+########*##*#####################
+import math;
+
+x1 = int(input("Enter x1 ---> "))
+y1 = int(input("Enter y1 ---> "))
+
+x2 = int(input("Enter x2 ---> "))
+y2 = int(inout("Enter y2 ---> "))
+d1 = (x2 - x1) ** 2
+d2 = (y2 - y1) ** 2
+res = math.sart (dl + d2)
+print ("Distance between two points:", res)
